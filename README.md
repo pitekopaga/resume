@@ -9,9 +9,8 @@ Environmental Scientist & Software Developer transitioning from EPA FOIA operati
 - **[LinkedIn Profile](https://linkedin.com/in/haribon)** - Always up-to-date
 
 ## 🎯 Professional Focus
-- **Current:** FOIA/eDiscovery Specialist at U.S. EPA
-- **Transitioning:** Software Engineering & Data Systems
-- **Background:** Forest Resources, Permaculture, Environmental Compliance
+- **Focus:** Software Engineering & Data Systems
+- **Background:** Forest Resources, Permaculture, Environmental Compliance, eDiscovery, Legal Research
 
 ## 🔗 Quick Links
 - [GitHub Portfolio](https://github.com/pitekopaga)
@@ -30,10 +29,10 @@ Environmental Scientist & Software Developer transitioning from EPA FOIA operati
 ## 🛠️ Technical Expertise
 
 ### Software Engineering
-- **Languages:** C++, Java, Python, SQL
+- **Languages:** C++, Java, Python, R, SQL
 - **Core Competencies:** Object-Oriented Design, Data Structures & Algorithms, Software Architecture, Systems Design, Database Management
-- **Development Practices:** Agile/Scrum, CI/CD, Testing, API Design, Cloud Computing
-- **Tools:** Git, PlantUML, Relativity, FOIAXpress, SharePoint
+- **Development Practices:** Agile/Scrum, CI/CD, Testing, Modeling, API Design, Cloud Computing
+- **Tools:** Git, Visual Studio, VS Code, jGrasp, Discord, R Studio, Relativity, PlantUML, FOIAXpress, SharePoint
 
 ### Domain-Informed Systems
 - Federal Tech Systems (EPA): FOIAXpress, Relativity, RelOne Gov, FOIAOnline
@@ -44,7 +43,7 @@ Environmental Scientist & Software Developer transitioning from EPA FOIA operati
 
 ### [C++ Systems Development Portfolio](https://github.com/pitekopaga/cpp)
 A comprehensive collection of C++ projects demonstrating software engineering principles:
-- **3D Image Generator** - Advanced graphics and algorithm implementation
+- **3D Image Generator** - Advanced graphics and algorithm implementation with UML design
 - **BST/Stack/Queue Data Structures** - Custom implementations with templates
 - **Koch Fractals** - Mathematical visualization and recursion
 - **Sorted List Class** - Template-based data structure design
