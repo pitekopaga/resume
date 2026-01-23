@@ -6,7 +6,6 @@ Environmental Scientist & Software Developer transitioning from EPA FOIA operati
 
 ## 📄 Resume Documents
 - **[Resume (PDF)](ScottElliott_Resume.pdf)** - Print-ready version
-- **[Resume (Markdown)](ScottElliott_Resume.md)** - Source version
 - **[LinkedIn Profile](https://linkedin.com/in/haribon)** - Always up-to-date
 
 ## 🎯 Professional Focus
