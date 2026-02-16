@@ -15,7 +15,7 @@ Environmental Scientist & Software Developer transitioning from EPA FOIA operati
 ## 🔗 Quick Links
 - [GitHub Portfolio](https://github.com/pitekopaga)
 - [ResearchGate](https://researchgate.net/profile/Scott-Elliott-7)
-- [Personal Website](https://fincasylvatica.com)
+- [Personal Website](https://fincasylvatica.com) 🌱 Also exploring the intersection of software and permaculture at Finca Sylvatica
 
 ## 📫 Contact
 - For professional inquiries, collaboration opportunities, or technical discussions:
