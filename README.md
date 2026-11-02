@@ -72,7 +72,7 @@ Resume, CV, and professional portfolio showcasing multidisciplinary expertise in
 ### Certifications
 - **CompTIA Security+** (March 2026)
 - **CompTIA Network+** (October 2026)
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** (October 2026)
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** (November 2026)
 - **Google AI Essentials** – Coursera (2025)
 - **Building AI (with Honors)** – MinnaLearn (2025)
 - **Elements of AI** – MinnaLearn (2025)
